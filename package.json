@@ -23,5 +23,14 @@
     "nodemailer": "^6.10.0",
     "sharp": "^0.33.5",
     "validator": "^13.12.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobretti19/MentorBackend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kobretti19/MentorBackend/issues"
+  },
+  "homepage": "https://github.com/kobretti19/MentorBackend#readme"
 }
